@@ -5,6 +5,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=claitonrodrigues7&label=Profile%20views&color=0e75b6&style=flat" alt="claitonrodrigues7" /> </p>
 
+- 📚 No momento estou fazendo o curso **técnico em informática**
+
+- 🌱 Atualmente estou estudando e me aperfeiçoando em **JavaScript.**
+
 - 🤝 Me siga no meu [Linkedln](https://www.linkedin.com/in/francisco-claiton-rodrigues-tavares-b45b66239/)
 
 - 💬 Pergunte-me sobre **PHP e Css**
@@ -27,6 +31,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=claitonrodrigues7&show_icons=true&theme=dark&locale=en" alt="claitonrodrigues7" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=claitonrodrigues7&theme=dark" alt="claitonrodrigues7" /></p>
-  
 
 
