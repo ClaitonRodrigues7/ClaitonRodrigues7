@@ -13,7 +13,7 @@
 
 - 🤝 Me siga no [Linkdln](https://www.linkedin.com/in/francisco-claiton-rodrigues-tavares-b45b66239/)
 
-- 📫 Contato: **clayronrodrigues@gmail.com**
+- 📫 Contato: **claitonrodriguestav@gmail.com**
 
 - ⚡ Sobre mim: **Sou um Jovem em busca de oportunidades, que almeja construir uma grande carreira na área da tecnologia!**
 
